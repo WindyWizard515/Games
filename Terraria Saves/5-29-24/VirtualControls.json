@@ -1,0 +1,1439 @@
+{
+  "Hardware": [
+    {
+      "Id": "Profile1",
+      "EditedName": "",
+      "LeftPagePosition": {
+        "X": -170.0,
+        "Y": -132.0
+      },
+      "LeftControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "RightPagePosition": {
+        "X": 132.0,
+        "Y": -173.0
+      },
+      "RightControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "SettingsPosition": {
+        "X": 151.0,
+        "Y": 56.0
+      },
+      "MenuPosition": {
+        "X": -151.0,
+        "Y": 56.0
+      },
+      "PageControls": "Vertical",
+      "Slots": [
+        {
+          "SlotId": "S1",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Move",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 19.0,
+            "Y": -73.0
+          }
+        },
+        {
+          "SlotId": "S2",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": -19.0,
+            "Y": -76.0
+          }
+        },
+        {
+          "SlotId": "S3",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 2.0,
+            "Y": 37.0
+          }
+        },
+        {
+          "SlotId": "S4",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 88.0,
+            "Y": -35.0
+          }
+        },
+        {
+          "SlotId": "S5",
+          "Style": {
+            "ControlTypeId": "Meta_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "LeftStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": -153.5,
+            "Y": -114.0
+          }
+        },
+        {
+          "SlotId": "S6",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "LeftStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": -134.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "SlotId": "S7",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": -157.0,
+            "Y": -19.0
+          }
+        },
+        {
+          "SlotId": "S8",
+          "Style": {
+            "ControlTypeId": "Action_65",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": -196.0,
+            "Y": -125.0
+          }
+        },
+        {
+          "SlotId": "S9",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Count",
+          "AnchorControl": "RightStick",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 105.0,
+            "Y": -119.0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "Profile2",
+      "EditedName": "",
+      "LeftPagePosition": {
+        "X": -170.0,
+        "Y": -132.0
+      },
+      "LeftControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "RightPagePosition": {
+        "X": 132.0,
+        "Y": -173.0
+      },
+      "RightControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "SettingsPosition": {
+        "X": 151.0,
+        "Y": 56.0
+      },
+      "MenuPosition": {
+        "X": -151.0,
+        "Y": 56.0
+      },
+      "PageControls": "Vertical",
+      "Slots": [
+        {
+          "SlotId": "S1",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Interact",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -94.0,
+            "Y": -75.0
+          }
+        },
+        {
+          "SlotId": "S2",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoSelect",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S3",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoFire",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S4",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Heal",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S5",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mana",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S6",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Buff",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S7",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Move",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        },
+        {
+          "SlotId": "S8",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomOut",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S9",
+          "Style": {
+            "ControlTypeId": "Axis_60",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "GrappleAxis",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S10",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Fire",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S11",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "CombatTargetting",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S12",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Jump",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S13",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mount",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S14",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "SmartCursor",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S15",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomIn",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S16",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Aim",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "Profile3",
+      "EditedName": "",
+      "LeftPagePosition": {
+        "X": -170.0,
+        "Y": -132.0
+      },
+      "LeftControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "RightPagePosition": {
+        "X": 132.0,
+        "Y": -173.0
+      },
+      "RightControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "SettingsPosition": {
+        "X": 151.0,
+        "Y": 56.0
+      },
+      "MenuPosition": {
+        "X": -151.0,
+        "Y": 56.0
+      },
+      "PageControls": "Vertical",
+      "Slots": [
+        {
+          "SlotId": "S1",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Interact",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S2",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoSelect",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S3",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoFire",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S4",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Heal",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S5",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mana",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S6",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Buff",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S7",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Move",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        },
+        {
+          "SlotId": "S8",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomOut",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S9",
+          "Style": {
+            "ControlTypeId": "Axis_60",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "GrappleAxis",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S10",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Fire",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S11",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "CombatTargetting",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S12",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Jump",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S13",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mount",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S14",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "SmartCursor",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S15",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomIn",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S16",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Aim",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "Profile4",
+      "EditedName": "",
+      "LeftPagePosition": {
+        "X": -170.0,
+        "Y": -132.0
+      },
+      "LeftControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "RightPagePosition": {
+        "X": 132.0,
+        "Y": -173.0
+      },
+      "RightControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "SettingsPosition": {
+        "X": 151.0,
+        "Y": 56.0
+      },
+      "MenuPosition": {
+        "X": -151.0,
+        "Y": 56.0
+      },
+      "PageControls": "Vertical",
+      "Slots": [
+        {
+          "SlotId": "S1",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Interact",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S2",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoSelect",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S3",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoFire",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S4",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Heal",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S5",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mana",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S6",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Buff",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S7",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Move",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        },
+        {
+          "SlotId": "S8",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomOut",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S9",
+          "Style": {
+            "ControlTypeId": "Axis_60",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "GrappleAxis",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S10",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Fire",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S11",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "CombatTargetting",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S12",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Jump",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S13",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mount",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S14",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "SmartCursor",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S15",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomIn",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S16",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Aim",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "Default",
+      "EditedName": "",
+      "LeftPagePosition": {
+        "X": -170.0,
+        "Y": -132.0
+      },
+      "LeftControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "RightPagePosition": {
+        "X": 132.0,
+        "Y": -173.0
+      },
+      "RightControlsPosition": {
+        "X": 175.0,
+        "Y": 77.0
+      },
+      "SettingsPosition": {
+        "X": 151.0,
+        "Y": 56.0
+      },
+      "MenuPosition": {
+        "X": -151.0,
+        "Y": 56.0
+      },
+      "PageControls": "Vertical",
+      "Slots": [
+        {
+          "SlotId": "S1",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Interact",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S2",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoSelect",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S3",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "AutoFire",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S4",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Heal",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S5",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mana",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S6",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Buff",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S7",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Move",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        },
+        {
+          "SlotId": "S8",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomOut",
+          "AnchorControl": "LeftStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S9",
+          "Style": {
+            "ControlTypeId": "Axis_60",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "GrappleAxis",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S10",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Fire",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S11",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "CombatTargetting",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S12",
+          "Style": {
+            "ControlTypeId": "Action_52",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Jump",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 87.0,
+            "Y": -59.0
+          }
+        },
+        {
+          "SlotId": "S13",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "Mount",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 98.0,
+            "Y": 5.0
+          }
+        },
+        {
+          "SlotId": "S14",
+          "Style": {
+            "ControlTypeId": "Action_39",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "SmartCursor",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 81.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S15",
+          "Style": {
+            "ControlTypeId": "Meta_28",
+            "ControlType": "Button"
+          },
+          "DefaultControl": "ZoomIn",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": -135.0,
+            "Y": 56.0
+          }
+        },
+        {
+          "SlotId": "S16",
+          "Style": {
+            "ControlTypeId": "Axis_104",
+            "ControlType": "Axis"
+          },
+          "DefaultControl": "Aim",
+          "AnchorControl": "RightStick",
+          "Anchor": "CentreBoth",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "Profiles": [
+    {
+      "Id": "Profile1",
+      "EditedName": "",
+      "Hardware": "Profile1",
+      "Controls": [
+        {
+          "SlotId": "S1",
+          "Action": "Move"
+        },
+        {
+          "SlotId": "S2",
+          "Action": "Aim"
+        },
+        {
+          "SlotId": "S3",
+          "Action": "Mount"
+        },
+        {
+          "SlotId": "S4",
+          "Action": "AutoSelect"
+        },
+        {
+          "SlotId": "S5",
+          "Action": "InventoryToggle"
+        },
+        {
+          "SlotId": "S6",
+          "Action": "SmartCursor"
+        },
+        {
+          "SlotId": "S7",
+          "Action": "CombatTargetting"
+        },
+        {
+          "SlotId": "S8",
+          "Action": "GrappleFire"
+        },
+        {
+          "SlotId": "S9",
+          "Action": "Jump"
+        }
+      ]
+    },
+    {
+      "Id": "Profile2",
+      "EditedName": "",
+      "Hardware": "Profile2",
+      "Controls": [
+        {
+          "SlotId": "S1",
+          "Action": "Interact"
+        },
+        {
+          "SlotId": "S2",
+          "Action": "AutoSelect"
+        },
+        {
+          "SlotId": "S3",
+          "Action": "AutoFire"
+        },
+        {
+          "SlotId": "S4",
+          "Action": "Heal"
+        },
+        {
+          "SlotId": "S5",
+          "Action": "Mana"
+        },
+        {
+          "SlotId": "S6",
+          "Action": "Buff"
+        },
+        {
+          "SlotId": "S7",
+          "Action": "Move"
+        },
+        {
+          "SlotId": "S8",
+          "Action": "ZoomOut"
+        },
+        {
+          "SlotId": "S9",
+          "Action": "GrappleAxis"
+        },
+        {
+          "SlotId": "S10",
+          "Action": "Fire"
+        },
+        {
+          "SlotId": "S11",
+          "Action": "CombatTargetting"
+        },
+        {
+          "SlotId": "S12",
+          "Action": "Jump"
+        },
+        {
+          "SlotId": "S13",
+          "Action": "Mount"
+        },
+        {
+          "SlotId": "S14",
+          "Action": "SmartCursor"
+        },
+        {
+          "SlotId": "S15",
+          "Action": "ZoomIn"
+        },
+        {
+          "SlotId": "S16",
+          "Action": "Aim"
+        }
+      ]
+    },
+    {
+      "Id": "Profile3",
+      "EditedName": "",
+      "Hardware": "Profile3",
+      "Controls": [
+        {
+          "SlotId": "S1",
+          "Action": "Interact"
+        },
+        {
+          "SlotId": "S2",
+          "Action": "AutoSelect"
+        },
+        {
+          "SlotId": "S3",
+          "Action": "AutoFire"
+        },
+        {
+          "SlotId": "S4",
+          "Action": "Heal"
+        },
+        {
+          "SlotId": "S5",
+          "Action": "Mana"
+        },
+        {
+          "SlotId": "S6",
+          "Action": "Buff"
+        },
+        {
+          "SlotId": "S7",
+          "Action": "Move"
+        },
+        {
+          "SlotId": "S8",
+          "Action": "ZoomOut"
+        },
+        {
+          "SlotId": "S9",
+          "Action": "GrappleAxis"
+        },
+        {
+          "SlotId": "S10",
+          "Action": "Fire"
+        },
+        {
+          "SlotId": "S11",
+          "Action": "CombatTargetting"
+        },
+        {
+          "SlotId": "S12",
+          "Action": "Jump"
+        },
+        {
+          "SlotId": "S13",
+          "Action": "Mount"
+        },
+        {
+          "SlotId": "S14",
+          "Action": "SmartCursor"
+        },
+        {
+          "SlotId": "S15",
+          "Action": "ZoomIn"
+        },
+        {
+          "SlotId": "S16",
+          "Action": "Aim"
+        }
+      ]
+    },
+    {
+      "Id": "Profile4",
+      "EditedName": "",
+      "Hardware": "Profile4",
+      "Controls": [
+        {
+          "SlotId": "S1",
+          "Action": "Interact"
+        },
+        {
+          "SlotId": "S2",
+          "Action": "AutoSelect"
+        },
+        {
+          "SlotId": "S3",
+          "Action": "AutoFire"
+        },
+        {
+          "SlotId": "S4",
+          "Action": "Heal"
+        },
+        {
+          "SlotId": "S5",
+          "Action": "Mana"
+        },
+        {
+          "SlotId": "S6",
+          "Action": "Buff"
+        },
+        {
+          "SlotId": "S7",
+          "Action": "Move"
+        },
+        {
+          "SlotId": "S8",
+          "Action": "ZoomOut"
+        },
+        {
+          "SlotId": "S9",
+          "Action": "GrappleAxis"
+        },
+        {
+          "SlotId": "S10",
+          "Action": "Fire"
+        },
+        {
+          "SlotId": "S11",
+          "Action": "CombatTargetting"
+        },
+        {
+          "SlotId": "S12",
+          "Action": "Jump"
+        },
+        {
+          "SlotId": "S13",
+          "Action": "Mount"
+        },
+        {
+          "SlotId": "S14",
+          "Action": "SmartCursor"
+        },
+        {
+          "SlotId": "S15",
+          "Action": "ZoomIn"
+        },
+        {
+          "SlotId": "S16",
+          "Action": "Aim"
+        }
+      ]
+    }
+  ]
+}
